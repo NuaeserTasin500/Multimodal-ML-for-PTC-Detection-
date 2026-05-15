@@ -10,7 +10,7 @@ The study investigates whether combining ultrasound radiomics with cytology path
 ## Authors
 
 - Shovon Kumar Das
-- Faria Zaman Titly
+- Faria Zaman Titly (https://github.com/Titlyzaman30)
 - Md. Taki Nuaeser Tasin (https://github.com/NuaeserTasin500)
 - Shishir Saha
 
