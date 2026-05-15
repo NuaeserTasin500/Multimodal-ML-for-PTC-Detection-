@@ -13,7 +13,16 @@ The study investigates whether combining ultrasound radiomics with cytology path
 - Faria Zaman Titly
 - Md. Taki Nuaeser Tasin (https://github.com/NuaeserTasin500)
 - Shishir Saha
-- Dr. Ahmed Wasif Reza (Our Teacher)
+
+---
+
+## Research Supervisor
+
+Dr. Ahmed Wasif Reza  
+Professor  
+Department of Computer Science & Engineering  
+Dean, Faculty of Sciences and Engineering  
+East West University
 
 ---
 
