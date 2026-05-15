@@ -7,6 +7,17 @@ The study investigates whether combining ultrasound radiomics with cytology path
 
 ---
 
+## Authors
+
+- Shovon Kumar Das
+- Faria Zaman Titly
+- Md. Taki Nuaeser Tasin (https://github.com/NuaeserTasin500)
+- Shishir Saha
+- Dr. Ahmed Wasif Reza (Our Teacher)
+
+---
+
+
 ## Research Motivation
 
 Research Paper: https://github.com/NuaeserTasin500/Multimodal-ML-for-PTC-Detection-/raw/main/Multimodal%20Machine%20Learning%20for%20Thyroid%20Carcinoma%20Detection%20(Pathomics%20and%20Ultrasound%20Radiomics).pdf
