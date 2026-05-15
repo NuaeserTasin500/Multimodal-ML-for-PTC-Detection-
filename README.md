@@ -102,33 +102,21 @@ Applied preprocessing includes:
 
 ---
 
-## Proposed Multimodal Architecture
+## Diagram
 
-The fusion framework combines:
+This is the diagram of this research:
 
-Ultrasound Encoder (EfficientNet-B4)
-
-+
-
-Cytology Encoder (EfficientNet-B4)
-
-↓
-
-Feature Concatenation (3584-D)
-
-↓
-
-MLP Classifier Head
-
-↓
-
-Binary Classification
-
-(Benign / PTC)
-
-The architecture uses late fusion and feature-level integration.
+![Diagram](https://github.com/NuaeserTasin500/Multimodal-ML-for-PTC-Detection-/blob/main/Image/Diagram.png)
 
 ---
+
+## Model Architecture of Dataset and Preprocessing
+This is the model architecture:
+
+![Model Architecture](https://github.com/NuaeserTasin500/Multimodal-ML-for-PTC-Detection-/blob/main/Image/Model%20Architecture.jpeg)
+
+---
+
 
 ## Evaluation Metrics
 
